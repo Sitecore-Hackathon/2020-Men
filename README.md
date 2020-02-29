@@ -15,7 +15,7 @@ Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-templat
 - Propose content structure
 - Create a few pages using http://www.sitecorehackathon.org/ content
 
-## Screenshots, etc.
+## Screenshots
 
 ![1](documentation/images/1.png?raw=true  "1")
 ![2](documentation/images/2.png?raw=true  "2")
