@@ -1,5 +1,3 @@
-![Hackathon Logo](documentation/images/hackathon.png?raw=true "Hackathon Logo")
-
 # Sitecore Hackathon Website Startup
 
 ## Entry Submission Requirements 
