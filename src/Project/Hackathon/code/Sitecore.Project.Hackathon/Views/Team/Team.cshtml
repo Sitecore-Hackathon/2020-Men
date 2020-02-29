@@ -1,0 +1,36 @@
+﻿@model Sitecore.Project.Hackathon.Models.Team
+
+<!--==========================
+      Speaker Details Section
+    ============================-->
+<section id="speakers-details" class="wow fadeIn">
+    <div class="container">
+        <div class="section-header">
+            <h2>Team @Model.Name</h2>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <img src="/img/hacklogo.png" style="max-height:350px" alt="Speaker 1" class="img-fluid">
+            </div>
+            <div class="col-md-6">
+                @foreach (var m in Model.TeamMembers)
+                {
+
+                    <div class="details">
+                        <h2>@m.Name</h2>
+                        <div class="social">
+                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <a href=""><i class="fa fa-facebook"></i></a>
+                            <a href=""><i class="fa fa-google-plus"></i></a>
+                            <a href=""><i class="fa fa-linkedin"></i></a>
+                        </div>
+                    </div>
+
+                }
+            </div>
+
+        </div>
+    </div>
+
+</section>
