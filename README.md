@@ -20,9 +20,9 @@ Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-templat
 ## Screenshots, etc.
 
 ![1](documentation/images/1.png?raw=true  "1")
-![2](documentation/images/1.png?raw=true  "2")
-![3](documentation/images/1.png?raw=true  "3")
-![4](documentation/images/1.png?raw=true  "4")
-![5](documentation/images/1.png?raw=true  "5")
-![6](documentation/images/1.png?raw=true  "6")
-![7](documentation/images/1.png?raw=true  "7")
+![2](documentation/images/2.png?raw=true  "2")
+![3](documentation/images/3.png?raw=true  "3")
+![4](documentation/images/4.png?raw=true  "4")
+![5](documentation/images/5.png?raw=true  "5")
+![6](documentation/images/6.png?raw=true  "6")
+![7](documentation/images/7.png?raw=true  "7")
